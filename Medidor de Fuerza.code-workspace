@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "ServidorMedidordeFuerza"
+		},
+		{
+			"name": "ClienteAcelerometro",
+			"path": "ClienteAcelerometro"
+		}
+	],
+	"settings": {}
+}
